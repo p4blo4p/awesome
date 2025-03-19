@@ -1,2 +1,2 @@
-# ffmpeg recortar un video y combinarlo con otro sobrepuesto
+* ffmpeg recortar un video y combinarlo con otro sobrepuesto
 
