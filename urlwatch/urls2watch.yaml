@@ -16,4 +16,13 @@ filter:
 name: "Home Listing"
 command: "ls -al ~"
 #---
+name: "Cursos INAP"
+url: "https://buscadorcursos.inap.es/#/?abierto=true&funcion=6"
+#---
+name: "Ayto Pto Real"
+url: "https://puertoreal.sedelectronica.es/board"
+filter:
+  - html2text
+  - grep: "informática"
+  - strip
 
