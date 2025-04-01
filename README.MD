@@ -1,6 +1,12 @@
 # configure urlwatch termux
 pkg install rust
+
 cargo install --locked maturin
+
+pkg install python-cryptography
+
+pkg install python-lxml
+
 pip install urlwatch
 
 # Video
