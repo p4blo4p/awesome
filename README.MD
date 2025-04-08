@@ -69,3 +69,41 @@ Forget about creating long videos for free using Avatar generators or Creative T
 | #   | Tool             | Type                                  | Typical FREE Export Length Limit         | Key AI Features (Free Tier)                     | Notes on "Long" Video (Free)                                    | Examples |
 | :-- | :--------------- | :------------------------------------ | :--------------------------------------- | :---------------------------------------------- | :-------------------------------------------------------------- | :-------------------------------------------------------------- |
 | 1   | **clippie.ai**   | Texto encima de video        | ~10-15 mins/week (exports often limited) | Prompt-based creation, AI script/voiceover    | Relatively generous length *limit*, but exports may be capped weekly. | https://www.youtube.com/watch?v=zpbWMjfh9x8 |
+
+
+https://www.youtube.com/watch?v=PbfgfQvDD-8
+
+HERRAMIENTAS QUE RECOMIENDO
+✅ Accede a Dzine AI (Generador de imágenes y vídeos): https://www.dzine.ai/?via=earningsbp
+
+✅ Accede a Suno AI gratis (generador de canciones): https://suno.com/
+
+✅ Accede a Leonardo AI gratis (Imagen y vídeos con IA): https://app.leonardo.ai/?via=earningsBP
+
+✅ Prueba Hailuo AI (Generador de vídeos): https://hailuoai.com/video
+
+✅ Accede a Dzine AI (Generador de imágenes y vídeos): https://www.dzine.ai/?via=earningsbp
+
+✅ DupDub (Locuciones): http://www.dupdub.com/?via=earningsbp
+
+✅ Accede a ElevenLabs (Generador de voces en off) https://rb.gy/tbahrk
+
+✅ VidIQ (Para que tu canal de YouTube crezca más rápido) https://vidiq.com/earningblueprint
+
+✅ InVideo (Generador de vídeos) https://invideo.sjv.io/earningsblueprint
+
+
+HERRAMIENTAS QUE RECOMIENDO
+✅ Accede a Dzine AI (Generador de imágenes y vídeos): https://www.dzine.ai/?via=earningsbp
+
+✅ Accede gratis a Leonardo AI (Imagen y vídeos con IA): https://app.leonardo.ai/?via=earningsBP
+
+✅ Prueba Hailuo AI (Generador de vídeos): https://hailuoai.com/video
+
+✅ Accede a Dzine AI (Generador de imágenes y vídeos): https://www.dzine.ai/?via=earningsbp
+
+✅ DupDub (Voz en off): http://www.dupdub.com/?via=earningsbp
+
+✅ Accede a ElevenLabs (Generador de voces en off) https://rb.gy/tbahrk
+
+✅ VidIQ (Para que tu canal de YouTube crezca más rápido) https://vidiq.com/earningblueprint
