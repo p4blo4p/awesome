@@ -15,6 +15,7 @@ pip install urlwatch
 # Image
 * upscale free online https://magnific.ai/
 
+# AI
 
 Okay, finding **20 distinct SaaS AI Video Generators** that offer a **truly free plan** (not just a limited trial) AND allow for **"long" videos** without significant restrictions is **extremely challenging, bordering on impossible**.
 
@@ -63,3 +64,8 @@ If your priority is **length** on a **free plan**, your best options are likely 
 If you need **AI *generation* (like Text-to-Stock-Video)**, tools like **InVideo AI** or **FlexClip** might offer *relatively* longer free exports (up to ~10-15 mins) but will come with watermarks and other limitations.
 
 Forget about creating long videos for free using Avatar generators or Creative Text-to-Video tools like Runway/Pika; their free tiers are designed for short tests only. Always check the current terms of service for any free plan, as they change frequently.
+
+# Manual
+| #   | Tool             | Type                                  | Typical FREE Export Length Limit         | Key AI Features (Free Tier)                     | Notes on "Long" Video (Free)                                    | Examples |
+| :-- | :--------------- | :------------------------------------ | :--------------------------------------- | :---------------------------------------------- | :-------------------------------------------------------------- | :-------------------------------------------------------------- |
+| 1   | **clippie.ai**   | Texto encima de video        | ~10-15 mins/week (exports often limited) | Prompt-based creation, AI script/voiceover    | Relatively generous length *limit*, but exports may be capped weekly. | https://www.youtube.com/watch?v=zpbWMjfh9x8 |
