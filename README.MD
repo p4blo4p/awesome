@@ -69,7 +69,7 @@ Forget about creating long videos for free using Avatar generators or Creative T
 | #   | Tool             | Type                                  | Typical FREE Export Length Limit         | Key AI Features (Free Tier)                     | Notes on "Long" Video (Free)                                    | Examples |
 | :-- | :--------------- | :------------------------------------ | :--------------------------------------- | :---------------------------------------------- | :-------------------------------------------------------------- | :-------------------------------------------------------------- |
 | 1   | **clippie.ai**   | Texto encima de video        | ~10-15 mins/week (exports often limited) | Prompt-based creation, AI script/voiceover    | Relatively generous length *limit*, but exports may be capped weekly. | https://www.youtube.com/watch?v=zpbWMjfh9x8 |
-
+| 2   | **imagine.art**   | Texto encima de video        | ~10-15 mins/week (exports often limited) | Prompt-based creation, AI script/voiceover    | Relatively generous length *limit*, but exports may be capped weekly. | https://www.youtube.com/watch?v=zpbWMjfh9x8 |
 
 https://www.youtube.com/watch?v=PbfgfQvDD-8
 
