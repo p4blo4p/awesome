@@ -26,3 +26,7 @@ filter:
   - grep: "informática"
   - strip
 
+#---
+name: "Ayto Pto Real"
+url: "https://puertoreal.es/oferta-publica-de-empleo/"
+
